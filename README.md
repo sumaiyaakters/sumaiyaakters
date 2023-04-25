@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sumaiyaakters
+- 👀 I’m interested in the Tech world.
+- 🌱 I’m currently learning MERN Stack Web Development.
+- 💞️ I’m looking to collaborate on Web Development.
+- 📫 Reach me at https://www.linkedin.com/in/sumaiya-akter-656b13271
